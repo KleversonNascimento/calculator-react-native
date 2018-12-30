@@ -1,0 +1,4 @@
+#Sun Dec 30 14:49:02 BRST 2018
+base.0=/Users/kleverson/calculator/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
